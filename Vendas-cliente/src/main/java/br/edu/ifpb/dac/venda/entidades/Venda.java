@@ -15,10 +15,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
-/**
- *
- * @author jose
- */
+
 @Entity
 public class Venda implements Serializable {
 
